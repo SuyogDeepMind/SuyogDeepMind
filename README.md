@@ -34,7 +34,7 @@
 
 ### 📂 Featured Projects
 
-#### 📌 [NBA Shot Prediction](https://github.com/SuyogDeepMind/NBA-shot-prediction)
+#### 📌 [End-to-End-NBA-Shot-Prediction](https://github.com/SuyogDeepMind/NBA-shot-prediction)
 > ML model that predicts the success of basketball shots using game data and player statistics.
 
 #### 📌 [Student Performance Prediction](https://github.com/SuyogDeepMind/Student-Performance-Prediction)
