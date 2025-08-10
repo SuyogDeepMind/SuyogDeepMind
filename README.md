@@ -35,12 +35,14 @@
 ### 📂 Featured Projects
 
 #### 📌 [End-to-End-NBA-Shot-Prediction](https://github.com/SuyogDeepMind/NBA-shot-prediction)
-> ML model that predicts the success of basketball shots using game data and player statistics.
-
-#### 📌 [Student Performance Prediction](https://github.com/SuyogDeepMind/Student-Performance-Prediction)
-> Predicts student exam performance using various classification and regression techniques.
+> NBA Shot Prediction – An end-to-end machine learning app to predict made or missed basketball shots using Kobe Bryant’s real-game data, deployed with Streamlit for interactive use.
+#### 📌 [FinSight-End-to-End-Personal-Expense-Prediction](https://github.com/SuyogDeepMind/FinSight-End-to-End-Personal-Expense-Prediction))
+>FinSight – An end-to-end machine learning solution for predicting monthly personal expenses, deployed as an interactive Streamlit web app.
+### [AI-Early-Warning-System-For-Students-At-Risk](https://github.com/SuyogDeepMind/AI-Early-Warning-System-For-Students-At-Risk)
+>An AI-powered early warning system that predicts at-risk students using academic, behavioral, and socio-economic data, enabling timely educator interventions through explainable ML models.
 
 ---
+
 
 ### 📊 GitHub Stats
 
@@ -57,7 +59,7 @@
 ### 💬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/suyogmanke/)  
-- 💻 Portfolio (coming soon)
+- 💻 Portfolio (https://github.com/SuyogDeepMind?tab=repositories)
 
 ---
 
